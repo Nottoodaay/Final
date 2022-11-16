@@ -617,6 +617,8 @@ textarea::placeholder{
 
 }
 
+/* hoooverssssss */
+
 .discount article:hover, .console article:hover,
 .games article:hover{
     border-radius: 20px;
@@ -632,6 +634,9 @@ textarea::placeholder{
     color: white;
 }
 
+.discount article:hover  .price,.console article:hover  .price, .games article:hover .price{
+    color: #ffffff;
+}
 /* s20 ultra */
 
 
